@@ -1,1 +1,11 @@
-<hello there >
+<html>
+<head>
+<title> Nexus </title >
+</head>
+<body>
+<h1> Begin </h1>
+<p>
+just have fun with this. </p>
+
+</body>
+</html>
